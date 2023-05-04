@@ -1,3 +1,5 @@
-172.31.82.205
-172.31.88.254
-172.31.87.127
+172.31.82.205 ansible_connection=ssh ansible_user=ec2-user
+172.31.88.254 ansible_connection=ssh ansible_user=ec2-user
+172.31.87.127 ansible_connection=ssh ansible_user=ec2-user
+172.31.80.222 ansible_connection=ssh ansible_user=ubuntu
+
